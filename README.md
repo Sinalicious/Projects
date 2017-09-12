@@ -1,8 +1,12 @@
-## About This
+## About This Page
 This Repository is used to organize all my projects from different languages, to make navigation easier for anyone who wants to see my work. 
 
+## About Me
+Learned Web development 6 years ago with basic HTML, PHP, Javascript, also learned the basics of VB.Net, Java, SQL in school but nothing too detailed, I don't have a degree in computer science, so most of my knowledge was acquired by myself using everything I could.
+Later on decided to take Java Certifications, at the moment I finished the Z01-803 (Java OCA) and in the future will definitely take the Z01-804 (Java OCP).
+
 ## Current State 
-Working on Android (Java) projects
+Working/Learning Android (Java) projects
 
 ## Finished
 #### C++/UE4
