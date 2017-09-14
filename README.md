@@ -12,8 +12,6 @@ Working/Learning Android (Java) projects
 ### Java/Android
 * [Udemy Android Dice App](https://github.com/Sinalicious/01_Android_Dice)
 
-*Most of these applications are simple due to their beginner level of learning*
-
 #### C++/UE4
 * [Udemy Course Tank Game](https://github.com/Sinalicious/04_TankBattle)
 * [Udemy Course FPS Game](https://github.com/Sinalicious/05_TestingFGrounds)
