@@ -16,5 +16,6 @@ Working/Learning Android (Java) projects
 * [Udemy Course Tank Game](https://github.com/Sinalicious/04_TankBattle)
 * [Udemy Course FPS Game](https://github.com/Sinalicious/05_TestingFGrounds)
 
-*Due to their file size i did not push C++ games after completing, Android Apps will be pushed and published in the App Store after beeing finished*
+*Due to their file size i did not push C++ games after completing, Android Apps will be pushed and published in the App Store after beeing finished*  
+
 *All Projects will have a preview, from a simple Youtube Video showcasing it or beeing published in the App Store, at the moment only the source code is available to preview*
