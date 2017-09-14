@@ -8,7 +8,12 @@ Later on decided to take Java Certifications, at the moment I finished the Z01-8
 ## Current State 
 Working/Learning Android (Java) projects
 
-## Finished
+## Finished (Side by Side Learning with courses)
+### Java/Android
+* [Udemy Android Dice App](https://github.com/Sinalicious/01_Android_Dice)
+
+*Most of these applications are simple due to their beginner level of learning*
+
 #### C++/UE4
 * [Udemy Course Tank Game](https://github.com/Sinalicious/04_TankBattle)
 * [Udemy Course FPS Game](https://github.com/Sinalicious/05_TestingFGrounds)
